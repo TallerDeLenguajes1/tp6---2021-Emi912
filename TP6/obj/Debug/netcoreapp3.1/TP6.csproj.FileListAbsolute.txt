@@ -1,0 +1,15 @@
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Emilio\source\repos\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.csprojAssemblyReference.cache
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.Form1.resources
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.GenerateResource.cache
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Emilio\source\repos\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache
